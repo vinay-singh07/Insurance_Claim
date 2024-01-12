@@ -1,2 +1,3 @@
 # Insurance_Claim
-this is first git repo of claim insurance
+This is first git repo of claim insurance.
+This is the version 1.
